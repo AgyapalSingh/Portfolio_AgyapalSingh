@@ -20,7 +20,7 @@ const Project = () => {
                     <p>Desi Shop is an Ecommerce website created using MERN STACK.</p>
                     <div className='project_item-cta'>
                         <a href="https://github.com/AgyapalSingh/Desi_Shop" className='btn' target='_blank'>Github</a>
-                        <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+                        <a href="https://ochre-newt-hose.cyclic.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
                     </div>
                 </article>
 
