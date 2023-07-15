@@ -16,12 +16,12 @@ const Project = () => {
                     <div className="project_item-image">
                         <img src={IMG5} alt="desishop" />
                     </div>
-                    <h3>Desi Shop - Ecommerce website</h3>
+                    <h3>E-Shop - Ecommerce website</h3>
                     <h5 className='text-light'>[ Complete Ecommerce Website]</h5>
                     <p>Desi Shop is an Ecommerce webapplication created using MERN STACK.</p>
                     <div className='project_item-cta'>
                         <a href="https://github.com/AgyapalSingh/Desi_Shop" className='btn' target='_blank'>Github</a>
-                        <a href="https://ochre-newt-hose.cyclic.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+                        <a href="https://e-shop-mern.netlify.app" className='btn btn-primary' target='_blank'>Live Demo</a>
                     </div>
                 </article>
                 <article className='project_item'>
@@ -50,7 +50,7 @@ const Project = () => {
                         <a href="https://songifymusicapp.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
                     </div>
                 </article>
-                <article className='project_item'>
+                {/* <article className='project_item'>
                     <div className="project_item-image">
                         <img src={IMG3} alt="kart" />
                     </div>
@@ -61,7 +61,7 @@ const Project = () => {
                         <a href="https://github.com/AgyapalSingh/Shopping_Kart" className='btn' target='_blank'>Github</a>
                         <a href="https://kartprojectsample.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
                     </div>
-                </article>
+                </article> */}
 
 
 
